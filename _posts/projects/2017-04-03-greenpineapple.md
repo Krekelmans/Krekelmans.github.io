@@ -9,7 +9,7 @@ meta:
 project:
   title: "Flamenco"
   type: "Redactie"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://borgerhoff-lamberigts.be/boeken/naar-andalusi%C3%AB-op-het-ritme-van-de-flamenco"
   logo: "/assets/images/projects/greenpineapple/flamencocover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 

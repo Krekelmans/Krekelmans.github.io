@@ -10,7 +10,7 @@ project:
   title: "Maison Margiela"
   type: "Boek"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/margielafoto.jpg"
+  logo: "/assets/images/projects/redpineapple/margielacover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:

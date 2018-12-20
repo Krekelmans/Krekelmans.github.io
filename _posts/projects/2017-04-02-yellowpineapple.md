@@ -7,16 +7,16 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
+  title: "Margiela de Hermès jaren"
+  type: "Vertaalwerk"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/yellowpineapple/margielacover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+  title: "Lannoo"
+  url: "https://www.lannoo.be/nl"
+  year: "2017"
 
 images:
   - image:

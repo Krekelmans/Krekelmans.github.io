@@ -4,19 +4,19 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Boek, Margiela"
+  keywords: "Assita, Kanko"
 
 project:
-  title: "Beauty Bible"
-  type: "Eindredactie"
+  title: "Leading Ladies"
+  type: "Vertaling"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/beautybiblecover.jpg"
+  logo: "/assets/images/projects/redpineapple/kankocover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Borgerhoff & Lamberigts"
-  url: "https://borgerhoff-lamberigts.be/"
-  year: "2015"
+  title: "Lannoo"
+  url: "https://www.lannoo.be/nl"
+  year: "2018"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Piep vosje"
 ---
-<p>Piep beertje BB boekje ke mie tochhhh.</p>
+<p>Piep beertje kanko boekje ke mie tochhhh.</p>

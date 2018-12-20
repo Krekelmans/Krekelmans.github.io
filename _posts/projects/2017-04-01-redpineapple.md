@@ -4,29 +4,29 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Boek, Margiela"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
+  title: "Maison Margiela"
+  type: "Boek"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Die Keure"
+  url: "https://www.diekeure.be"
   year: "2017"
 
 images:
   - image:
     url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    alt: "Piep beertje"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
+    alt: "Piep aapje"
   - image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    alt: "Piep vosje"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>Piep beertje maison margiela boekje ke mie tochhhh.</p>

@@ -4,18 +4,18 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "Flamenco, Andalusie"
 
 project:
-  title: "Green Pineapple"
-  type: "Jekyll"
+  title: "Flamenco"
+  type: "Redactie"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/greenpineapple/logo.png"
+  logo: "/assets/images/projects/greenpineapple/flamencocover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Green Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  title: "Borgerhoff & Lamberigts"
+  url: "https://borgerhoff-lamberigts.be/"
   year: "2017"
 
 images:

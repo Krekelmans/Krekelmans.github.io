@@ -9,7 +9,7 @@ meta:
 project:
   title: "Margiela de Hermès jaren"
   type: "Vertaalwerk"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://www.lannoo.be/nl/margiela-de-herm%C3%A8s-jaren"
   logo: "/assets/images/projects/yellowpineapple/margielacover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 

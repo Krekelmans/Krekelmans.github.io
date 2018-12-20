@@ -9,7 +9,7 @@ meta:
 project:
   title: "Leading Ladies"
   type: "Vertaling"
-  url: "https://borgerhoff-lamberigts.be/boeken/naar-andalusi%C3%AB-op-het-ritme-van-de-flamenco"
+  url: "https://www.lannoo.be/nl/leading-ladies-0"
   logo: "/assets/images/projects/redpineapple/kankocover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 

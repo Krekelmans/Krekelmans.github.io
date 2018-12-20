@@ -7,16 +7,16 @@ meta:
   keywords: "Boek, Margiela"
 
 project:
-  title: "Maison Margiela"
-  type: "Boek"
+  title: "Beauty Bible"
+  type: "Eindredactie"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/margielacover.jpg"
+  logo: "/assets/images/projects/redpineapple/beautybiblecover.jpg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
-  title: "Die Keure"
-  url: "https://www.diekeure.be"
-  year: "2017"
+  title: "Borgerhoff & Lamberigts"
+  url: "https://borgerhoff-lamberigts.be/"
+  year: "2015"
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
     alt: "Piep vosje"
 ---
-<p>Piep beertje maison margiela boekje ke mie tochhhh.</p>
+<p>Piep beertje BB boekje ke mie tochhhh.</p>

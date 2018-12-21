@@ -20,13 +20,13 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/redpineapple/kankospec1.jpg"
     alt: "Piep beertje"
   - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    url: "/assets/images/projects/redpineapple/kankospec2.jpg"
     alt: "Piep aapje"
   - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    url: "/assets/images/projects/redpineapple/kankospec3.jpg"
     alt: "Piep vosje"
 ---
 <p>Piep beertje kanko boekje ke mie tochhhh.</p>

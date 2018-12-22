@@ -11,7 +11,7 @@ project:
   type: "Vertaling"
   url: "https://www.lannoo.be/nl/leading-ladies-0"
   logo: "/assets/images/projects/redpineapple/kankocover.jpg"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Vertaling"
 
 agency:
   title: "Lannoo"

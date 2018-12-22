@@ -11,7 +11,7 @@ project:
   type: "vertaling"
   url: "https://borgerhoff-lamberigts.be/boeken/beauty-bible"
   logo: "/assets/images/projects/aquapineapple/beautybiblecover.jpg"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Vertaling"
 
 agency:
   title: "Borgerhoff & Lamberigts"

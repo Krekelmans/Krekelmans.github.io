@@ -21,12 +21,13 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/greenpineapple/flamencospec1.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    alt: "Flamenco foto 1"
   - image:
     url: "/assets/images/projects/greenpineapple/flamencospec2.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    alt: "Flamenco foto 2"
   - image:
     url: "/assets/images/projects/greenpineapple/flamencospec3.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    alt: "Flamenco foto 3"
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>Omdat de flamenco onlosmakelijk verbonden is met de Spaanse cultuur, besloot flamencoexpert Guido Declercq een reisgids te schrijven op het ritme van de beroemde dans. Als eindredacteur stond ik in voor de laatste revisie van het boek.
+</p>

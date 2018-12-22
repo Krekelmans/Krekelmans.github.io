@@ -29,4 +29,5 @@ images:
     url: "/assets/images/projects/redpineapple/kankospec3.jpg"
     alt: "Piep vosje"
 ---
-<p>Piep beertje kanko boekje ke mie tochhhh.</p>
+<p>Politica Assita Kanko wil met haar boek Leading Ladies vrouwen helpen om hun ambities waar te maken. Het boek, dat oorspronkelijk onder dezelfde naam in het Frans verscheen, vertaalde ik samen met Doreen Espeel.
+</p>
